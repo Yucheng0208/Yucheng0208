@@ -11,10 +11,16 @@ Welcome to my GitHub profile! I'm a passionate **master's student** and **resear
 - 🏆 **Competitions**: Multiple awards in science, technology, and invention
 
 ## 🔬 Research Interests
-- **Artificial Intelligence**: Deep Learning, Natural Language Processing
+## 🔬 Research Interests
+
+Researcher specializing in:
+- **Artificial Intelligence (AI)**: Deep Learning, Natural Language Processing
 - **Internet of Things (IoT)**: Smart Scheduling, Sensor Networks
+- **Advanced Driver-Assistance Systems (ADAS)**: Including lane-keeping systems, computer-controlled driving, smart turn signal systems, vehicle-to-everything (V2X) communication, and driver behavior prediction
 - **Computer Vision**: Image Recognition, Gesture Detection
-- **Embedded Systems**: Microcontroller Integration, FPGA Development
+- **Embedded Systems**: Focused on microcontrollers, single-chip systems, and microprocessors, including platforms such as FPGA, Raspberry Pi, ESP32, Arduino, ESP8266, and LinkIt 7697
+- **Sensors Technology**: Including temperature and humidity sensing, image capture, and multi-context measurement and control systems
+
 
 ## 🌏 Let's Connect!
 - 🔗 [Website](https://www.yucheng208.net)
