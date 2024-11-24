@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I'm a passionate **master's student** and **resear
 - 📨 Telegram: [Ryan_0208](https://t.me/Ryan_0208)
 - 🐦 Twitter: [@YuCheng208](https://twitter.com/YuCheng208)
 - 📘 LinkedIn: [Yu-Cheng Chang](https://www.linkedin.com/in/yu-cheng-chang/)
-- 
 
-Feel free to explore my repositories and connect with me for collaborations, discussions, or just to say hi!
+
+Feel free to explore my repositories and connect with me for collaborations and discussions or to say hi!
