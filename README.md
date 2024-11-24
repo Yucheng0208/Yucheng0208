@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **master's student** and **resear
 - 🎓 **Education**: Pursuing a Master's Degree at NTUT CSIE (Fall 2024 Cohort)
 - 💻 **Current Roles**:
   - Researcher specializing in **AI**, **IoT**, **ADAS**, **Embedded Systems**, **Sensors Technology**, and **Computer Vision**
+  - Part-time lecturer in new technologies, media, and career planning for workplace life
 - 📝 **Published Work**: Authored approximately 10 academic papers, most indexed by EI
 - 🏆 **Competitions**: Multiple awards in science, technology, and invention
 
