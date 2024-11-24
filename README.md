@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate **master's student** and **resear
 - 🏆 **Competitions**: Multiple awards in science, technology, and invention
 
 ## 🔬 Research Interests
-## 🔬 Research Interests
 
 Researcher specializing in:
 - **Artificial Intelligence (AI)**: Deep Learning, Natural Language Processing, Machine Learning, Classification Methods, Data Analysis and Sampling, and Neural Networks
@@ -21,6 +20,9 @@ Researcher specializing in:
 - **Embedded Systems**: Focused on microcontrollers, single-chip systems, and microprocessors, including platforms such as FPGA, Raspberry Pi, ESP32, Arduino, ESP8266, and LinkIt 7697
 - **Sensors Technology**: Including temperature and humidity sensing, image capture, and multi-context measurement and control systems
 
+## 🎓 Teaching Experience
+
+- **Teaching Assistant**: Linear Algebra
 
 ## 🌏 Let's Connect!
 - 🔗 [Website](https://www.yucheng208.net)
