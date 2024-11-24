@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **master's student** and **resear
 ## 🔬 Research Interests
 
 Researcher specializing in:
-- **Artificial Intelligence (AI)**: Deep Learning, Natural Language Processing
+- **Artificial Intelligence (AI)**: Deep Learning, Natural Language Processing, Machine Learning, Classification Methods, Data Analysis and Sampling, and Neural Networks
 - **Internet of Things (IoT)**: Smart Scheduling, Sensor Networks
 - **Advanced Driver-Assistance Systems (ADAS)**: Including lane-keeping systems, computer-controlled driving, smart turn signal systems, vehicle-to-everything (V2X) communication, and driver behavior prediction
 - **Computer Vision**: Image Recognition, Gesture Detection
