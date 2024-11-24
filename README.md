@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate **master's student** and **resear
 ## ☎️ Contact Me
 - 💌 Email: [yucheng208@outlook.com](mailto:yucheng208@outlook.com)
 - 📞 WhatsApp: [Yu-Cheng Chang](https://api.whatsapp.com/send/?phone=886975265171&text&type=phone_number&app_absent=0)
-- 📨 Telegram: [Ryan_0208]([https://api.whatsapp.com/send/?phone=886975265171&text&type=phone_number&app_absent=0](https://t.me/Ryan_0208))
+- 📨 Telegram: [Ryan_0208](https://t.me/Ryan_0208)
 - 🐦 Twitter: [@YuCheng208](https://twitter.com/YuCheng208)
 - 📘 LinkedIn: [Yu-Cheng Chang](https://www.linkedin.com/in/yu-cheng-chang/)
 - 
