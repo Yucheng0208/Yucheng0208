@@ -56,7 +56,9 @@
 
 ## 🎓 Teaching Experience
 
-![Teaching Experience](./Teaching_Experience_Word_Cloud.png)
+<div align="center">
+     <img src="./Teaching_Experience_Word_Cloud.png" width="100%" alt="Teaching Experience">
+</div>
 
 ---
 
