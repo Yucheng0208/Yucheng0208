@@ -28,18 +28,18 @@ Researcher specializing in:
 ## 🌏 Let's Connect!
 
 - 🔬 Academic Resources
-  -  [ResearchGate](https://www.researchgate.net/profile/Yu-Cheng-Chang-14)
-  -  [ORCID](https://orcid.org/0000-0003-1301-9192)
-  -  [Google Scholar](https://scholar.google.com/citations?user=-SWWt7kAAAAJ&hl=zh-TW)
-  -  [IEEE Xplore](https://ieeexplore.ieee.org/author/37089901051)
-  -  [Sci Profiles](https://www.google.com/url?q=https%3A%2F%2Fsciprofiles.com%2Fprofile%2F3276587&sa=D&sntz=1&usg=AOvVaw1LMsszK3IrrtDMltRzsLzF)
-- ☎️ Contact Me
-  - 🔗 Website: [https://www.yucheng208.net](https://www.yucheng208.net)
-  - 💌 Email: [yucheng208@outlook.com](mailto:yucheng208@outlook.com)
-  - 📞 WhatsApp: [Yu-Cheng Chang](https://api.whatsapp.com/send/?phone=886975265171&text&type=phone_number&app_absent=0)
-  - 📨 Telegram: [Ryan_0208](https://t.me/Ryan_0208)
-  - 🐦 Twitter: [@YuCheng208](https://twitter.com/YuCheng208)
-  - 📘 LinkedIn: [Yu-Cheng Chang](https://www.linkedin.com/in/yu-cheng-chang/)
 
-Feel free to explore my repositories and connect with me for collaborations and discussions or to say hi! </br>
+| Research Gate | ORCID | Google Scholar | IEEE Xplore | SCI Profilo |
+| :-----------: | :---: | :------------: | :---------: | :---------: |
+| [Link](https://www.researchgate.net/profile/Yu-Cheng-Chang-14) | [Link](https://orcid.org/0000-0003-1301-9192) | [Link](https://scholar.google.com/citations?user=-SWWt7kAAAAJ&hl=zh-TW) | [Link](https://ieeexplore.ieee.org/author/37089901051) | [Link](https://www.google.com/url?q=https%3A%2F%2Fsciprofiles.com%2Fprofile%2F3276587&sa=D&sntz=1&usg=AOvVaw1LMsszK3IrrtDMltRzsLzF) |
+
+- ☎️ Contact Me
+
+| Website | Email | WhatsApp | Telegram | Twitter | LinkedIn |
+| :-----: | :---: | :------: | :------: | :-----: | :------: |
+| [Link](https://www.yucheng208.net) | [Link](mailto:yucheng208@outlook.com) | [Link](https://api.whatsapp.com/send/?phone=886975265171&text&type=phone_number&app_absent=0) | [Link](https://t.me/Ryan_0208) | [Link](https://twitter.com/YuCheng208) | [Link](https://www.linkedin.com/in/yu-cheng-chang/) |
+
+### Feel free to explore my repositories and connect with me for collaborations and discussions or to say hi! </br>
+
+## Buy me a coffee!
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yucheng0208)
