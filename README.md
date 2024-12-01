@@ -1,6 +1,17 @@
-# 👋 Hi there! I'm Yu-Cheng Chang
-
-Welcome to my GitHub profile! I'm a passionate **master's student** and **researcher** at the **Department of Computer Science and Information Engineering (CSIE), National Taipei University of Technology (NTUT)** in Taiwan. My primary focus is on cutting-edge technologies that drive innovation and transform industries.
+<div align="center">
+    <table cellspacing="0" cellpadding="0">
+        <tr>
+            <td width="20%">
+                <img src="https://avatars.githubusercontent.com/u/45489725?v=4" width="100%" alt="Yu-Cheng Chang">
+            </td>
+            <td width="80%">
+                <h2>👋 Hi there! I'm Yu-Cheng Chang</h2>
+                <p>Welcome to my GitHub profile! I'm a passionate master's student and researcher at the Department of Computer Science and Information Engineering (CSIE), National Taipei University of Technology (NTUT) in Taiwan.</p>
+                <p>My primary focus is cutting-edge technologies that drive innovation and transform industries.</p>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ## 🌟 About Me
 
