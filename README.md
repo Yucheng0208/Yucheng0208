@@ -56,7 +56,7 @@
 
 ## 🎓 Teaching Experience
 
-- **Teaching Assistant**: Linear Algebra
+![Teaching Experience](./Teaching_Experience_Word_Cloud.png)
 
 ---
 
