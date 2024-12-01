@@ -13,6 +13,8 @@
     </table>
 </div>
 
+---
+
 ## 🌟 About Me
 
 - 🎓 **Education**: Pursuing a Master's Degree at NTUT CSIE (Fall 2024 Cohort)
@@ -22,35 +24,67 @@
 - 📝 **Published Work**: Authored approximately 10 academic papers, most indexed by EI
 - 🏆 **Competitions**: Multiple awards in science, technology, and invention
 - 🧑🏻‍💻 **Organizations**: [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://github.com/EMO-Labs)
+
+---
+
 ## 🔬 Research Interests
 
-Researcher specializing in:
-- **Artificial Intelligence (AI)**: Deep Learning, Natural Language Processing, Machine Learning, Classification Methods, Data Analysis and Sampling, and Neural Networks
+- **Artificial Intelligence (AI)**: Deep Learning, NLP, Machine Learning, Classification Methods, Data Analysis, and Neural Networks
 - **Internet of Things (IoT)**: Smart Scheduling, Sensor Networks
-- **Advanced Driver-Assistance Systems (ADAS)**: Including lane-keeping systems, computer-controlled driving, smart turn signal systems, vehicle-to-everything (V2X) communication, and driver behavior prediction
+- **Advanced Driver-Assistance Systems (ADAS)**: Lane-keeping systems, V2X communication, driver behavior prediction
 - **Computer Vision**: Image Recognition, Gesture Detection
-- **Embedded Systems**: Focused on microcontrollers, single-chip systems, and microprocessors, including platforms such as FPGA, Raspberry Pi, ESP32, Arduino, ESP8266, and LinkIt 7697
-- **Sensors Technology**: Including temperature and humidity sensing, image capture, and multi-context measurement and control systems
+- **Embedded Systems**: Platforms including FPGA, Raspberry Pi, ESP32, Arduino
+- **Sensors Technology**: Temperature and humidity sensing, image capture, and multi-context measurement and control systems
+
+---
+
+## 🎓 Education
+
+- **Master of Computer Science and Information Engineering**  
+  *National Taipei University of Technology (NTUT)*  
+  *Sep, 2024 – Current*
+
+- **Bachelor of Computer Information and Network Engineering**  
+  *Lunghwa University of Science and Technology*  
+  *Sep, 2020 – Jun, 2024*
+
+- **Program in Electrical Engineering**  
+  *New Taipei City Tamsui Senior Commercial Vocational School*  
+  *Sep, 2017 – Jun, 2020*
+
+---
 
 ## 🎓 Teaching Experience
 
 - **Teaching Assistant**: Linear Algebra
 
+---
+
 ## 🌏 Let's Connect!
 
-- 🔬 Academic Resources
+| Platform       | Link                                                                 |
+|----------------|----------------------------------------------------------------------|
+| **Research Gate**  | [Link](https://www.researchgate.net/profile/Yu-Cheng-Chang-14)     |
+| **ORCID**         | [Link](https://orcid.org/0000-0003-1301-9192)                     |
+| **Google Scholar** | [Link](https://scholar.google.com/citations?user=-SWWt7kAAAAJ&hl=zh-TW) |
+| **IEEE Xplore**    | [Link](https://ieeexplore.ieee.org/author/37089901051)           |
+| **SCI Profilo**    | [Link](https://sciprofiles.com/profile/3276587)                 |
 
-| Research Gate | ORCID | Google Scholar | IEEE Xplore | SCI Profilo |
-| :-----------: | :---: | :------------: | :---------: | :---------: |
-| [Link](https://www.researchgate.net/profile/Yu-Cheng-Chang-14) | [Link](https://orcid.org/0000-0003-1301-9192) | [Link](https://scholar.google.com/citations?user=-SWWt7kAAAAJ&hl=zh-TW) | [Link](https://ieeexplore.ieee.org/author/37089901051) | [Link](https://www.google.com/url?q=https%3A%2F%2Fsciprofiles.com%2Fprofile%2F3276587&sa=D&sntz=1&usg=AOvVaw1LMsszK3IrrtDMltRzsLzF) |
+| Contact         | Link                                                                 |
+|------------------|----------------------------------------------------------------------|
+| **Website**      | [Link](https://www.yucheng208.net)                                 |
+| **Email**        | [Link](mailto:yucheng208@outlook.com)                              |
+| **WhatsApp**     | [Link](https://api.whatsapp.com/send/?phone=886975265171&text&type=phone_number&app_absent=0) |
+| **Telegram**     | [Link](https://t.me/Ryan_0208)                                     |
+| **Twitter**      | [Link](https://twitter.com/YuCheng208)                             |
+| **LinkedIn**     | [Link](https://www.linkedin.com/in/yu-cheng-chang/)                |
 
-- ☎️ Contact Me
+---
 
-| Website | Email | WhatsApp | Telegram | Twitter | LinkedIn |
-| :-----: | :---: | :------: | :------: | :-----: | :------: |
-| [Link](https://www.yucheng208.net) | [Link](mailto:yucheng208@outlook.com) | [Link](https://api.whatsapp.com/send/?phone=886975265171&text&type=phone_number&app_absent=0) | [Link](https://t.me/Ryan_0208) | [Link](https://twitter.com/YuCheng208) | [Link](https://www.linkedin.com/in/yu-cheng-chang/) |
+### Feel free to explore my repositories and connect with me for collaborations and discussions or to say hi! 😊
 
-### Feel free to explore my repositories and connect with me for collaborations and discussions or to say hi! </br>
+---
 
-## Buy me a coffee!
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yucheng0208)
+## ☕ Buy Me A Coffee!
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yucheng0208)
