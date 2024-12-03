@@ -68,14 +68,9 @@
 | :--------------: | :------: | :----------------: | :-------------: | :-------------: |
 | [Link](https://www.researchgate.net/profile/Yu-Cheng-Chang-14) | [Link](https://orcid.org/0000-0003-1301-9192) | [Link](https://scholar.google.com/citations?user=-SWWt7kAAAAJ&hl=zh-TW) | [Link](https://ieeexplore.ieee.org/author/37089901051)  | [Link](https://sciprofiles.com/profile/3276587) |
 
-| Contact         | Link                                                                 |
-|------------------|----------------------------------------------------------------------|
-| **Website**      | [Link](https://www.yucheng208.net)                                 |
-| **Email**        | [Link](mailto:yucheng208@outlook.com)                              |
-| **WhatsApp**     | [Link](https://api.whatsapp.com/send/?phone=886975265171&text&type=phone_number&app_absent=0) |
-| **Telegram**     | [Link](https://t.me/Ryan_0208)                                     |
-| **Twitter**      | [Link](https://twitter.com/YuCheng208)                             |
-| **LinkedIn**     | [Link](https://www.linkedin.com/in/yu-cheng-chang/)                |
+| **Website** | **Email** | **WhatsApp** | **Telegram** | **Twitter** | **LinkedIn** |
+| :---------: | :-------: | :----------: | :----------: | :---------: | :----------: |
+| [Link](https://www.yucheng208.net) | [Link](mailto:yucheng208@outlook.com) | [Link](https://api.whatsapp.com/send/?phone=886975265171&text&type=phone_number&app_absent=0) | [Link](https://t.me/Ryan_0208) | [Link](https://twitter.com/YuCheng208) | [Link](https://www.linkedin.com/in/yu-cheng-chang/) |
 
 ---
 
