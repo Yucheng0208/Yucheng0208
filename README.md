@@ -84,11 +84,9 @@
 
 ## 🔨 Common tools
 
-[![Tools](https://skillicons.dev/icons?i=anaconda,androidstudio,apple,atom,azure,cmake,docker,dotnet,eclipse,electron,gcp,git,github,gitlab,notion,raspberrypi,ubuntu,windows,vscode,webstorm,wordpress&perline=4)](https://skillicons.dev)
-
-[![Programming Languages](https://skillicons.dev/icons?i=arduino,c,cs,cpp,java,js,python,pytorch,tensorflow,swift,flask,opencv,p5js&perline=4)](https://skillicons.dev)
-
-[![Design Tools](https://skillicons.dev/icons?i=bootstrap,figma,ps,pr,latex,xd,sketchup&perline=4)](https://skillicons.dev)
+| Systems | Tools | Design Tools | Programming Language |
+| :-----: | :---: | :----------: | :------------------: |
+| [![Systems](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=4)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=anaconda,androidstudio,atom,azure,cmake,docker,dotnet,eclipse,electron,gcp,git,github,gitlab,notion,raspberrypi,vscode,webstorm,wordpress&perline=4)](https://skillicons.dev) | [![Design Tools](https://skillicons.dev/icons?i=bootstrap,figma,ps,pr,latex,xd,sketchup&perline=4)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=arduino,c,cs,cpp,java,js,python,pytorch,tensorflow,swift,flask,opencv,p5js&perline=4)](https://skillicons.dev) |
 
 ---
 
