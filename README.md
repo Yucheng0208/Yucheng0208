@@ -51,17 +51,12 @@ Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://gi
 
 ## 🎓 Education
 
-- **Master of Computer Science and Information Engineering**  
-  *National Taipei University of Technology (NTUT)*  
-  *Sep, 2024 – Current*
+| **Education**                                   | **School Logo**                      |
+|------------------------------------------------|---------------------------------------|
+| **Master of Computer Science and Information Engineering**<br>*National Taipei University of Technology (NTUT)*<br>*Sep 2024 – Present* | ![NTUT Logo]([NTUT_logo_url](https://upload.wikimedia.org/wikipedia/zh/7/7e/National_Taipei_University_of_Technology_seal.svg)) |
+| **Bachelor of Computer Information and Network Engineering**<br>*Lunghwa University of Science and Technology*<br>*Sep 2020 – Jun 2024* | ![Lunghwa Logo]((https://2024-dailyview.s3.ap-northeast-1.amazonaws.com/topic_image/2024/6/a83d1391f79f47f5c40c7d22ba40f7e74b555fb7761b65cd8b60f232c5f8bc6b.jpeg) |
+| **Program in Electrical Engineering**<br>*New Taipei City Tamsui Senior Commercial Vocational School*<br>*Sep 2017 – Jun 2020* | ![Tamsui_logo_url](https://system.tsvs.ntpc.edu.tw/auth//Content/Logo/school_logo.png) |
 
-- **Bachelor of Computer Information and Network Engineering**  
-  *Lunghwa University of Science and Technology*  
-  *Sep, 2020 – Jun, 2024*
-
-- **Program in Electrical Engineering**  
-  *New Taipei City Tamsui Senior Commercial Vocational School*  
-  *Sep, 2017 – Jun, 2020*
 
 ---
 
