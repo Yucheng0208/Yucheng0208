@@ -29,12 +29,16 @@
 
 ## 🔬 Research Interests
 
-- **Artificial Intelligence (AI)**: Deep Learning, NLP, Machine Learning, Classification Methods, Data Analysis, and Neural Networks
-- **Internet of Things (IoT)**: Smart Scheduling, Sensor Networks
-- **Advanced Driver-Assistance Systems (ADAS)**: Lane-keeping systems, V2X communication, driver behavior prediction
-- **Computer Vision**: Image Recognition, Gesture Detection
-- **Embedded Systems**: Platforms including FPGA, Raspberry Pi, ESP32, Arduino
-- **Sensors Technology**: Temperature and humidity sensing, image capture, and multi-context measurement and control systems
+Here is the content formatted into a table in English:
+
+| **Field**                 | **Expertise**                                                                                     |
+|---------------------------|--------------------------------------------------------------------------------------------------|
+| **Artificial Intelligence (AI)** | Deep Learning, NLP, Machine Learning, Classification Methods, Data Analysis, Neural Networks |
+| **Internet of Things (IoT)**     | Smart Scheduling, Sensor Networks                                                         |
+| **Advanced Driver-Assistance Systems (ADAS)** | Lane-keeping systems, V2X communication, Driver Behavior Prediction                             |
+| **Computer Vision**              | Image Recognition, Gesture Detection                                                      |
+| **Embedded Systems**             | Platforms including FPGA, Raspberry Pi, ESP32, Arduino                                    |
+| **Sensors Technology**           | Temperature and Humidity Sensing, Image Capture, Multi-Context Measurement and Control Systems |
 
 ---
 
