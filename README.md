@@ -23,7 +23,7 @@
   - Part-time lecturer in new technologies, media, and career planning for workplace life
 - 📝 **Published Work**: Authored approximately 10 academic papers, most indexed by EI
 - 🏆 **Competitions**: Multiple awards in science, technology, and invention
-- 🧑🏻‍💻 **Organizations**: [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://github.com/EMO-Labs)
+- 🧑🏻‍💻 **Organizations**: [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman)
 
 ---
 
