@@ -29,8 +29,6 @@
 
 ## 🔬 Research Interests
 
-Here is the content formatted into a table in English:
-
 | **Field**                 | **Expertise**                                                                                     |
 |---------------------------|--------------------------------------------------------------------------------------------------|
 | **Artificial Intelligence (AI)** | Deep Learning, NLP, Machine Learning, Classification Methods, Data Analysis, Neural Networks |
