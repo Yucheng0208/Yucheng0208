@@ -84,7 +84,7 @@
 
 ## 🔨 Common tools
 
-[![Applications](https://skillicons.dev/icons?i=anaconda, androidstudio, apple, atom, azure, bootstrap, cmake, docker, dotnet, eclipse, electron, figma, flask, gcp, git, github, arduino, c, cs, cpp, css, debian, gitlab, gmail, Instagram, java, js, latex, md, notion, opencv, p5js, ps, pr, pycharm, py, pytorch, raspberrypi, sketchupswift, tensorflow, twitter, ubuntu,vim visualstudio, vscode, webstorm, windows, Wordpress, xd)](https://skillicons.dev)
+[![Applications](https://skillicons.dev/icons?i=anaconda, androidstudio, apple, atom, azure, bootstrap, cmake, docker, dotnet, eclipse, electron, figma, flask, gcp, git, github, arduino, c, cs, cpp, css, debian, gitlab, gmail, Instagram, java, js, latex, md, notion, opencv, p5js, ps, pr, pycharm, py, pytorch, raspberrypi, sketchupswift, tensorflow, twitter, ubuntu,vim visualstudio, vscode, webstorm, windows, Wordpress, xd&perline=3)](https://skillicons.dev)
 
 ---
 
