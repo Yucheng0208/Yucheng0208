@@ -17,13 +17,22 @@
 
 ## 🌟 About Me
 
-- 🎓 **Education**: Pursuing a Master's Degree at NTUT CSIE (Fall 2024 Cohort)
-- 💻 **Current Roles**:
-  - Researcher specializing in **AI**, **IoT**, **ADAS**, **Embedded Systems**, **Sensors Technology**, and **Computer Vision**
-  - Part-time lecturer in new technologies, media, and career planning for workplace life
-- 📝 **Published Work**: Authored approximately 10 academic papers, most indexed by EI
-- 🏆 **Competitions**: Multiple awards in science, technology, and invention
-- 🧑🏻‍💻 **Organizations**: [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman)
+
+🎓 **Education**  
+Master’s Student in Computer Science and Information Engineering, NTUT (Fall 2024 Cohort)
+
+💼 **Professional Roles**  
+- **Researcher**: Expertise in Artificial Intelligence, IoT, ADAS, Embedded Systems, Sensors Technology, and Computer Vision  
+- **Lecturer**: Part-time educator in emerging technologies, digital media, and career development for modern workplace dynamics  
+
+📚 **Publications**  
+Authored ~10 academic papers, with most indexed in EI  
+
+🏆 **Achievements**  
+Recipient of multiple awards in science, technology, and innovation competitions  
+
+🌐 **Affiliations**  
+Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman)
 
 ---
 
