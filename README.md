@@ -75,9 +75,9 @@
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yucheng0208&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yucheng0208&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yucheng0208&theme=default&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yucheng0208&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yucheng0208&theme=default)
+
 ---
 
 ### Feel free to explore my repositories and connect with me for collaborations and discussions or to say hi! 😊
