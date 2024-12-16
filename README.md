@@ -38,14 +38,15 @@ Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://gi
 
 ## 🔬 Research Interests
 
-| **Field**                 | **Expertise**                                                                                     |
-|---------------------------|--------------------------------------------------------------------------------------------------|
-| **Artificial Intelligence (AI)** | Deep Learning, NLP, Machine Learning, Classification Methods, Data Analysis, Neural Networks |
-| **Internet of Things (IoT)**     | Smart Scheduling, Sensor Networks                                                         |
-| **Advanced Driver-Assistance Systems (ADAS)** | Lane-keeping systems, V2X communication, Driver Behavior Prediction                             |
-| **Computer Vision**              | Image Recognition, Gesture Detection                                                      |
-| **Embedded Systems**             | Platforms including FPGA, Raspberry Pi, ESP32, Arduino                                    |
-| **Sensors Technology**           | Temperature and Humidity Sensing, Image Capture, Multi-Context Measurement and Control Systems |
+| **Field**                        | **Expertise**                                                                                     |
+| :------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| **Artificial Intelligence (AI)** | Deep Learning, NLP, Machine Learning, Classification Methods, Data Analysis, Neural Networks      |
+| **Internet of Things (IoT)**     | Smart Scheduling, Sensor Networks                                                                 |
+| **Advanced Driver-Assistance Systems (ADAS)** | Lane-keeping systems, V2X communication, Driver Behavior Prediction                  |
+| **Computer Vision**              | Image Recognition, Gesture Detection                                                              |
+| **Embedded Systems**             | Platforms including FPGA, Raspberry Pi, ESP32, Arduino                                            |
+| **Sensors Technology**           | Temperature and Humidity Sensing, Image Capture, Multi-Context Measurement and Control Systems    |
+| **Information Security**         | Blockchain, Cryptography, F2A                                                                     |
 
 ---
 
