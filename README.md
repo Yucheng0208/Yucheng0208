@@ -102,10 +102,8 @@ Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://gi
 
 ---
 
-### Feel free to explore my repositories and connect with me for collaborations and discussions or to say hi! 😊
-
----
-
 ## ☕ Buy Me A Coffee!
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yucheng0208)
+
+### Feel free to explore my repositories and connect with me for collaborations and discussions or to say hi! 😊
