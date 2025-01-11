@@ -98,7 +98,7 @@ Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://gi
 
 | Operation Systems | Develop Tools | Design Tools | Programming Language |
 | :---------------: | :-----------: | :----------: | :------------------: |
-| [![Systems](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=4)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=anaconda,androidstudio,atom,azure,cmake,docker,dotnet,eclipse,electron,gcp,git,github,gitlab,notion,raspberrypi,vscode,webstorm,wordpress&perline=4)](https://skillicons.dev) | [![Design Tools](https://skillicons.dev/icons?i=bootstrap,figma,ps,pr,latex,xd,sketchup&perline=4)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=arduino,c,cs,cpp,java,js,python,pytorch,tensorflow,swift,flask,opencv,p5js&perline=4)](https://skillicons.dev) |
+| [![Systems](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=4)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=anaconda,androidstudio,atom,azure,cmake,docker,dotnet,eclipse,electron,gcp,git,github,gitlab,notion,raspberrypi,vscode,webstorm,wordpress&perline=4)](https://skillicons.dev) | [![Design Tools](https://skillicons.dev/icons?i=bootstrap,figma,ps,ai,pr,latex,xd,sketchup&perline=4)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=arduino,c,cs,cpp,java,js,python,pytorch,tensorflow,swift,flask,opencv,p5js&perline=4)](https://skillicons.dev) |
 
 ---
 
