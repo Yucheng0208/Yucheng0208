@@ -19,7 +19,7 @@
 
 
 🎓 **Education**  
-Master’s Student in Computer Science and Information Engineering, NTUT (Fall 2024 Cohort)
+Master’s Student in Computer Science and Information Engineering, NTUT (Fall 2024)
 
 💼 **Professional Roles**  
 - **Researcher**: Expertise in Artificial Intelligence, IoT, ADAS, Embedded Systems, Sensors Technology, and Computer Vision  
