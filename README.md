@@ -13,10 +13,7 @@
     </table>
 </div>
 
----
-
 ## 🌟 About Me
-
 
 🎓 **Education**  
 Master’s Student in Computer Science and Information Engineering, National Taipei University of Technology (Fall 2024)
@@ -34,8 +31,6 @@ Recipient of multiple awards in science, technology, and innovation competitions
 🌐 **Affiliations**  
 Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman)
 
----
-
 ## 🔬 Research Interests
 
 | **Field**                        | **Expertise**                                                                                     |
@@ -47,8 +42,6 @@ Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://gi
 | **Embedded Systems**             | Platforms including FPGA, Raspberry Pi, ESP32, Arduino                                            |
 | **Sensors Technology**           | Temperature and Humidity Sensing, Image Capture, Multi-Context Measurement and Control Systems    |
 | **Information Security**         | Blockchain, Cryptography, F2A                                                                     |
-
----
 
 ## 🎓 Education
 
@@ -64,15 +57,11 @@ Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://gi
   *New Taipei City Tamsui Senior Commercial Vocational School*  
   *Sep, 2017 – Jun, 2020*
 
----
-
 ## 🎓 Teaching Experience
 
 <div align="center">
      <img src="./Teaching_Experience_Word_Cloud.png" width="100%" alt="Teaching Experience">
 </div>
-
----
 
 ## 🌏 Let's Connect
 
@@ -84,23 +73,17 @@ Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://gi
 | :---------: | :-------: | :----------: | :----------: | :---------: | :----------: |
 | [Link](https://www.yucheng208.net) | [Link](mailto:yucheng208@outlook.com) | [Link](https://api.whatsapp.com/send/?phone=886975265171&text&type=phone_number&app_absent=0) | [Link](https://t.me/Ryan_0208) | [Link](https://twitter.com/YuCheng208) | [Link](https://www.linkedin.com/in/yu-cheng-chang/) |
 
----
-
 ## 📘 GitHub Profile Summary Cards
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yucheng0208&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yucheng0208&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yucheng0208&theme=default)
 
----
-
 ## 🔨 Common tools
 
 | Operation Systems | Develop Tools | Design Tools | Programming Language |
 | :---------------: | :-----------: | :----------: | :------------------: |
 | [![Systems](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=4)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=anaconda,androidstudio,atom,azure,cmake,docker,dotnet,eclipse,electron,gcp,git,github,gitlab,notion,raspberrypi,vscode,webstorm,wordpress&perline=4)](https://skillicons.dev) | [![Design Tools](https://skillicons.dev/icons?i=bootstrap,figma,ps,ai,pr,latex,xd,sketchup&perline=4)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=arduino,c,cs,cpp,java,js,python,pytorch,tensorflow,swift,flask,opencv,p5js&perline=4)](https://skillicons.dev) |
-
----
 
 ## ☕ Buy Me A Coffee!
 
