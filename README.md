@@ -39,10 +39,10 @@ Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://gi
 | **Internet of Things (IoT)**     | Smart Scheduling, Sensor Networks                                                                 |
 | **Advanced Driver-Assistance Systems (ADAS)** | Lane-keeping systems, V2X communication, Driver Behavior Prediction                  |
 | **Computer Vision**              | Image Recognition, Gesture Detection                                                              |
-| **Embedded Systems**             | Platforms including FPGA, Raspberry Pi, ESP32, Arduino                                            |
+| **Embedded Systems**             | FPGA, Raspberry Pi, ESP8266, ESP32, Linkit 7697, Arduino, Jetson nano                             |
 | **Sensors Technology**           | Temperature and Humidity Sensing, Image Capture, Multi-Context Measurement and Control Systems    |
 | **Information Security**         | Blockchain, Cryptography, F2A                                                                     |
-
+| **Device**                       | PLC                                                                                               |
 ## 🎓 Education
 
 - **Master of Computer Science and Information Engineering**  
