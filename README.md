@@ -28,7 +28,7 @@ Authored ~10 academic papers, with most indexed in EI
 🏆 **Achievements**  
 Recipient of multiple awards in science, technology, and innovation competitions  
 
-🌐 **Affiliations**  
+🌐 **Organizations**  
 Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman)
 
 ## 🔬 Research Interests
