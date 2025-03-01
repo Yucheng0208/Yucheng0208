@@ -65,9 +65,9 @@ Active member of [Team-COFE](https://github.com/TEAM-COFE), [EMO-Lab](https://gi
 
 ## 🌏 Let's Connect
 
-|**ResearchGate** | **ORCID** | **Google Scholar** | **IEEE Xplore** | **SCI Profilo** |
-| :--------------: | :------: | :----------------: | :-------------: | :-------------: |
-| [Link](https://www.researchgate.net/profile/Yu-Cheng-Chang-14) | [Link](https://orcid.org/0000-0003-1301-9192) | [Link](https://scholar.google.com/citations?user=-SWWt7kAAAAJ&hl=zh-TW) | [Link](https://ieeexplore.ieee.org/author/37089901051)  | [Link](https://sciprofiles.com/profile/3276587) |
+|**ResearchGate** | **ORCID** | **Google Scholar** | **IEEE Xplore** | **SCI Profilo** | HackMD |
+| :--------------: | :------: | :----------------: | :-------------: | :-------------: | :----: |
+| [Link](https://www.researchgate.net/profile/Yu-Cheng-Chang-14) | [Link](https://orcid.org/0000-0003-1301-9192) | [Link](https://scholar.google.com/citations?user=-SWWt7kAAAAJ&hl=zh-TW) | [Link](https://ieeexplore.ieee.org/author/37089901051)  | [Link](https://sciprofiles.com/profile/3276587) | [Link](https://hackmd.io/@Ryan208)
 
 | **Website** | **Email** | **WhatsApp** | **Telegram** | **Twitter** | **LinkedIn** |
 | :---------: | :-------: | :----------: | :----------: | :---------: | :----------: |
