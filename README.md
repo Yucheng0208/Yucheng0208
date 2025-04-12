@@ -47,7 +47,7 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 
 - **Master of Computer Science and Information Engineering**  
   *National Taipei University of Technology (NTUT)*  
-  *Sep, 2024 – Feb, 2025 (Expected)*
+  *Sep, 2024 – Jan, 2025 (Expected)*
 
 - **Bachelor of Computer Information and Network Engineering**  
   *Lunghwa University of Science and Technology*  
