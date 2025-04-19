@@ -45,21 +45,21 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 
 ## 🎓 Education
 
-- **TBA**
-  *Ph.D in TBA* 
-  *September 2026 ~ TBA*
+- **TBA** </br>
+    *Ph.D in TBA* </br>
+    *September 2026 ~ TBA* </br>
 
-- **National Taipei University of Technology (NTUT)**
-  *M.S. in Computer Science and Information Engineering*
-  *September 2024 ~ January 2026 (Expected)*
+- **National Taipei University of Technology (NTUT)** </br>
+    *M.S. in Computer Science and Information Engineering* </br>
+    *September 2024 ~ January 2026 (Expected)* </br>
   
-- **Lunghwa University of Science and Technology (LHU)**
-  *B.S. in Computer Information and Network Engineering*
-  *September 2020 ~ June 2024*
+- **Lunghwa University of Science and Technology (LHU)** </br>
+    *B.S. in Computer Information and Network Engineering* </br>
+    *September 2020 ~ June 2024* </br>
 
-- **New Taipei City Tamsui Senior Commercial Vocational School (TSVS)**
-  *Program in Electrical Engineering*
-  *September 2017 ~ June 2020*
+- **New Taipei City Tamsui Senior Commercial Vocational School (TSVS)** </br>
+    *Program in Electrical Engineering* </br>
+    *September 2017 ~ June 2020* </br>
   
 ## 🎓 Teaching Experience
 
