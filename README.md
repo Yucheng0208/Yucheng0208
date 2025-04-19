@@ -7,7 +7,7 @@
             <td width="80%">
                 <h2>👋 Hi there! I'm Yu-Cheng Chang</h2>
                 <p>Welcome to my GitHub profile! I'm a passionate master's student and researcher at the Department of Computer Science and Information Engineering (CSIE), National Taipei University of Technology (NTUT) in Taiwan.</p>
-                <p>My primary focus is cutting-edge technologies that drive innovation and transform industries.</p>
+                <p>My primary focus is on cutting-edge technologies that drive innovation and transform industries.</p>
             </td>
         </tr>
     </table>
