@@ -46,8 +46,8 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 ## 🎓 Education
 
 - **TBA**
-    *Ph.D in TBA* 
-    *September 2026 ~ TBA*
+  *Ph.D in TBA* 
+  *September 2026 ~ TBA*
 
 - **National Taipei University of Technology (NTUT)**
   *M.S. in Computer Science and Information Engineering*
