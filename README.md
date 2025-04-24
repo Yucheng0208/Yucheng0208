@@ -42,6 +42,7 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 | **Embedded Systems**             | FPGA, Raspberry Pi, ESP8266, ESP32, Linkit 7697, Arduino, Jetson nano                             |
 | **Sensors Technology**           | Temperature and Humidity Sensing, Image Capture, Multi-Context Measurement and Control Systems, PLC |
 | **Information Security**         | Blockchain, Cryptography, F2A, RSA, ECC                                                           |
+| **Command Tools**                | Shell Script, Batch file                                                                          |
 
 ## 🎓 Education
 
