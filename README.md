@@ -31,7 +31,7 @@ Recipient of multiple awards in science, technology, and innovation competitions
 🌐 **Organizations**  
 Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman)
 
-## 🔬 Research Interests
+## 🔬 Research Themes and Key Topics
 
 | **Field**                        | **Expertise**                                                                                     |
 | -------------------------------- | ------------------------------------------------------------------------------------------------- |
@@ -42,7 +42,8 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 | **Embedded Systems**             | FPGA, Raspberry Pi, ESP8266, ESP32, Linkit 7697, Arduino, Jetson nano                             |
 | **Sensors Technology**           | Temperature and Humidity Sensing, Image Capture, Multi-Context Measurement and Control Systems, PLC |
 | **Information Security**         | Blockchain, Cryptography, F2A, RSA, ECC                                                           |
-| **Command Tools**                | Shell Script, Batch file                                                                          |
+| **Automation and Scripting**                | Shell Script, Batch file                                                                          |
+| **Sustainability Technology**    | Carbon Footprint Tracking, Carbon Credit Trading Systems, Carbon Sequestration, ESG Data Management, Sustainable IoT Solutions |
 
 ## 🎓 Education
 
@@ -94,4 +95,4 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yucheng0208)
 
-*Feel free to explore my repositories and connect with me for collaborations and discussions or to say hi!* 😊-->
+*Feel free to explore my repositories and connect with me for collaborations, discussions, or to say hi!* 😊-->
