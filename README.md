@@ -33,6 +33,10 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 
 ## 🔬 Research Themes and Key Topics
 
+> [!TIP]
+> Although my research themes and key topics may appear diverse, they are all deeply interconnected by a shared vision: to explore practical challenges in daily life and to design technologies that make the future more accessible, sustainable, and intelligent.
+> Each area represents a step towards realizing this lifelong pursuit.
+
 | **Field**                        | **Expertise**                                                                                     |
 | -------------------------------- | ------------------------------------------------------------------------------------------------- |
 | **Artificial Intelligence (AI)** | Deep Learning, NLP, Machine Learning, Classification Methods, Data Analysis, Neural Networks      |
@@ -41,8 +45,9 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 | **Computer Vision**              | Image Recognition, Gesture Detection                                                              |
 | **Embedded Systems**             | FPGA, Raspberry Pi, ESP8266, ESP32, Linkit 7697, Arduino, Jetson nano                             |
 | **Sensors Technology**           | Temperature and Humidity Sensing, Image Capture, Multi-Context Measurement and Control Systems, PLC |
-| **Information Security**         | Blockchain, Cryptography, F2A, RSA, ECC                                                           |
-| **Automation and Scripting**                | Shell Script, Batch file                                                                          |
+| **Information Security**         | Blockchain, Cryptography, Hash, Algorithm, Asset Trading Platform, Validation of Visual Data Authenticity |
+| **Automation and Scripting**     | Shell Script, Batch file                                                                          |
+| **Speech Processing** | Automatic Speech Recognition (ASR), Speech Synthesis (TTS), Speaker Diarization, Speech Activity Detection, Speech Translation |
 | **Sustainability Technology**    | Carbon Footprint Tracking, Carbon Credit Trading Systems, Carbon Sequestration, ESG Data Management, Sustainable IoT Solutions |
 
 ## 🎓 Education
