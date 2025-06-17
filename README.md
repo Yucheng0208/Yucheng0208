@@ -29,7 +29,7 @@ Authored ~10 academic papers, with most indexed in EI
 Recipient of multiple awards in science, technology, and innovation competitions  
 
 🌐 **Organizations**  
-Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman)
+Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman), [SMSH-Nexus]((https://github.com/SMSH-Nexus)
 
 ## 🔬 Research Themes and Key Topics
 
