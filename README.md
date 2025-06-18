@@ -7,7 +7,7 @@
             <td width="80%">
                 <h2>👋 Hi there! I'm Yu-Cheng Chang</h2>
                 <p>Welcome to my GitHub profile! I'm a passionate master's student and researcher at the Department of Computer Science and Information Engineering (CSIE), National Taipei University of Technology (NTUT) in Taiwan.</p>
-                <p>My primary focus is cutting-edge technologies that drive innovation and transform industries.</p>
+                <p>My primary focus is on cutting-edge technologies that drive innovation and transform industries.</p>
             </td>
         </tr>
     </table>
@@ -28,8 +28,9 @@ Authored ~10 academic papers, with most indexed in EI
 🏆 **Achievements**  
 Recipient of multiple awards in science, technology, and innovation competitions  
 
-🌐 **Organizations**  
+<!--🌐 **Organizations**  
 Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman), [SMSH-Nexus](https://github.com/SMSH-Nexus)
+-->
 
 ## 🔬 Research Themes and Key Topics
 
@@ -42,12 +43,13 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 | **Artificial Intelligence (AI)** | Deep Learning, NLP, Machine Learning, Classification Methods, Data Analysis, Neural Networks      |
 | **Internet of Things (IoT)**     | Smart Scheduling, Sensor Networks                                                                 |
 | **Advanced Driver-Assistance Systems (ADAS)** | Lane-keeping systems, V2X communication, Driver Behavior Prediction                  |
-| **Computer Vision**              | Image Recognition, Gesture Detection                                                              |
+| **Computer Vision (CV)**         | Image Recognition, Gesture Detection                                                              |
+| **Operating System (OS)**        | Windows, macOS, Ubuntu, CentOS |  
 | **Embedded Systems**             | FPGA, Raspberry Pi, ESP8266, ESP32, Linkit 7697, Arduino, Jetson nano                             |
 | **Sensors Technology**           | Temperature and Humidity Sensing, Image Capture, Multi-Context Measurement and Control Systems, PLC |
 | **Information Security**         | Blockchain, Cryptography, Hash, Algorithm, Asset Trading Platform, Validation of Visual Data Authenticity |
 | **Automation and Scripting**     | Shell Script, Batch file                                                                          |
-| **Speech Processing** | Automatic Speech Recognition (ASR), Speech Synthesis (TTS), Speaker Diarization, Speech Activity Detection, Speech Translation |
+| **Speech Processing**            | Automatic Speech Recognition (ASR), Speech Synthesis (TTS), Speaker Diarization, Speech Activity Detection, Speech Translation |
 | **Sustainability Technology**    | Carbon Footprint Tracking, Carbon Credit Trading Systems, Carbon Sequestration, ESG Data Management, Sustainable IoT Solutions |
 
 ## 🎓 Education
