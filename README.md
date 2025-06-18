@@ -23,7 +23,7 @@ Master’s Student in Computer Science and Information Engineering, National Tai
 - **Lecturer**: Part-time educator in emerging technologies, digital media, and career development for modern workplace dynamics  
 
 📚 **Publications**  
-Authored ~10 academic papers, with most indexed in EI  
+Authored ~15 academic papers, with most indexed in EI (Engineering Index)
 
 🏆 **Achievements**  
 Recipient of multiple awards in science, technology, and innovation competitions  
