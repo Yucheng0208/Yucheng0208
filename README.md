@@ -27,9 +27,6 @@ Master’s Student in Computer Science and Information Engineering, National Tai
 - **Conference**: Authored ~15 academic papers, with most indexed in EI (Engineering Index)
 - **Book**: Co-authored the recently published book, Generative AI Literacy: A Comprehensive Guide from Model Principles to Practical Educational Applications 《生成式AI素養全解: 從模型原理到教育應用的實戰教學書》 (2025), providing hands-on instruction for integrating AI literacy into modern curricula.
 
-🏆 **Achievements**  
-Recipient of multiple awards in science, technology, and innovation competitions  
-
 <!--🌐 **Organizations**  
 Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman)
 -->
