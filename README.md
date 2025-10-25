@@ -37,7 +37,7 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 > Although my research themes and key topics may appear diverse, they are all deeply interconnected by a shared vision: to explore practical challenges in daily life and to design technologies that make the future more accessible, sustainable, and intelligent.
 > Each area represents a step towards realizing this lifelong pursuit.
 
-| **Field**                        | **Expertise**                                                                                     |
+| **Topic**                        | **Expertise**                                                                                     |
 | -------------------------------- | ------------------------------------------------------------------------------------------------- |
 | **Artificial Intelligence (AI)** | Deep Learning, NLP, Machine Learning, Classification Methods, Data Analysis, Neural Networks, Prompt Engineer |
 | **Internet of Things (IoT)**     | Smart Scheduling, Sensor Networks                                                                 |
