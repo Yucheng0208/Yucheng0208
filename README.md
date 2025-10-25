@@ -16,11 +16,12 @@
 ## 🌟 About Me
 
 🎓 **Education**  
-Master’s Student in Computer Science and Information Engineering, National Taipei University of Technology (Fall 2024)
+Master’s Student in Computer Science and Information Engineering, National Taipei University of Technology (Fall 2024 ~ Present)
 
 💼 **Professional Roles**  
-- **Researcher**: Expertise in Artificial Intelligence, IoT, ADAS, Embedded Systems, Sensors Technology, and Computer Vision  
-- **Lecturer**: Part-time educator in emerging technologies, digital media, and career development for modern workplace dynamics  
+- **Researcher**: Expertise in Artificial Intelligence, IoT, ADAS, Embedded Systems, Sensors Technology, and Computer Vision.
+- **Lecturer**: Part-time educator in emerging technologies, digital media, and career development for modern workplace dynamics.  
+- **Teacher**: Part-time educator in Taiwanese Junior and Senior High Schools, focused on teaching Information Technology with special emphasis on Prompt Engineering and AI Literacy/Popular Science.
 
 📚 **Publications**  
 Authored ~15 academic papers, with most indexed in EI (Engineering Index)
@@ -29,7 +30,7 @@ Authored ~15 academic papers, with most indexed in EI (Engineering Index)
 Recipient of multiple awards in science, technology, and innovation competitions  
 
 <!--🌐 **Organizations**  
-Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman), [SMSH-Nexus](https://github.com/SMSH-Nexus)
+Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https://github.com/EMO-Labs), [NeoLuman](https://github.com/NeoLuman)
 -->
 
 ## 🔬 Research Themes and Key Topics
@@ -54,7 +55,7 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 
 ## 🎓 Education
 
-- **TBA** </br>
+- **Recommad Ph.D** </br>
     *Ph.D in TBA* </br>
     *September 2026 ~ TBA* </br>
 
@@ -76,16 +77,6 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
      <img src="./Teaching_Experience_Word_Cloud.png" width="100%" alt="Teaching Experience">
 </div>
 
-## 🌏 Let's Connect
-
-|**ResearchGate** | **ORCID** | **Google Scholar** | **IEEE Xplore** | **SCI Profilo** | HackMD |
-| :--------------: | :------: | :----------------: | :-------------: | :-------------: | :----: |
-| [Link](https://www.researchgate.net/profile/Yu-Cheng-Chang-14) | [Link](https://orcid.org/0000-0003-1301-9192) | [Link](https://scholar.google.com/citations?user=-SWWt7kAAAAJ&hl=zh-TW) | [Link](https://ieeexplore.ieee.org/author/37089901051)  | [Link](https://sciprofiles.com/profile/3276587) | [Link](https://hackmd.io/@Yucheng208)
-
-| **Website** | **Email** | **WhatsApp** | **Telegram** | **Twitter** | **LinkedIn** |
-| :---------: | :-------: | :----------: | :----------: | :---------: | :----------: |
-| [Link](https://www.yucheng208.net) | [Link](mailto:yucheng208@outlook.com) | [Link](https://api.whatsapp.com/send/?phone=886975265171&text&type=phone_number&app_absent=0) | [Link](https://t.me/Ryan_0208) | [Link](https://twitter.com/YuCheng208) | [Link](https://www.linkedin.com/in/yu-cheng-chang/) |
-
 ## 📘 GitHub Profile Summary Cards
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yucheng0208&theme=default)
@@ -97,6 +88,7 @@ Active member of [COFE-Studio](https://github.com/COFE-Studio), [EMO-Lab](https:
 | Operation Systems | Develop Tools | Design Tools | Programming Language |
 | :---------------: | :-----------: | :----------: | :------------------: |
 | [![Systems](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=4)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=anaconda,androidstudio,atom,azure,clion,cmake,docker,dotnet,eclipse,electron,gcp,git,github,gitlab,md,maven,notion,npm,pycharm,raspberrypi,unity,vscode,webstorm,wordpress&perline=4)](https://skillicons.dev) | [![Design Tools](https://skillicons.dev/icons?i=bootstrap,figma,ps,ai,pr,latex,xd,sketchup&perline=4)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=arduino,c,cs,cpp,java,js,python,pytorch,tensorflow,swift,flask,opencv,p5js&perline=4)](https://skillicons.dev) |
+
 <!--
 ## ☕ Buy Me A Coffee!
 
