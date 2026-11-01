@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="95" height="38" viewBox="0 0 95 38" role="img" aria-label="信箱">
-<rect x="0.75" y="0.75" width="93.5" height="36.5" rx="18.25" fill="#2563eb" fill-opacity="0.06" stroke="#2563eb" stroke-opacity="0.55" stroke-width="1.5"/>
-<svg x="20" y="11" width="16" height="16" viewBox="0 0 512 512"><path fill="#2563eb" d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/></svg>
-<text x="44" y="23.8" fill="#2563eb" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="13.5" font-weight="600" textLength="29" lengthAdjust="spacingAndGlyphs">信箱</text>
-</svg>
