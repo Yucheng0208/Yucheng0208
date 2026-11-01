@@ -7,43 +7,51 @@
 <a href="https://scholar.google.com/citations?user=-SWWt7kAAAAJ"><img src="assets/badges/ja/scholar.svg" height="38" alt="Google Scholar"></a>
 <a href="https://orcid.org/0000-0003-1301-9192"><img src="assets/badges/ja/orcid.svg" height="38" alt="ORCID"></a>
 <a href="https://www.linkedin.com/in/yucheng208/"><img src="assets/badges/ja/linkedin.svg" height="38" alt="LinkedIn"></a>
-<a href="https://www.yucheng208.net/#contact"><img src="assets/badges/ja/email.svg" height="38" alt="メール"></a>
 </p>
 <p><sub><a href="https://github.com/Yucheng0208">English</a> · <a href="https://github.com/Yucheng0208/Yucheng0208/blob/main/README.zh-TW.md">繁體中文</a> · <b>日本語</b></sub></p>
 
 </div>
 
-## 自己紹介
+<img src="assets/headings/ja/about.svg" width="100%" alt="自己紹介">
 
-国立清華大学 情報工学科の博士課程に在籍しながら、龍華科技大学で講師を務めています。応用AI、コンピュータビジョン、IoTを中心に、手話認識、交通安全、スマート教育など、実社会で役立つシステムの開発に取り組んでいます。また、[ICI Lab（知能計算・情報セキュリティ研究室）](https://www.yucheng208.net/ici-lab)を率い、知能計算、コンピュータビジョン、情報セキュリティの研究を進めています。
+マルチモーダルAIとコンピュータビジョン（人体姿勢推定や手話認識など）を中心に研究しており、近年は大規模言語モデル（LLM）にも注力しています。LLMベースのシステムの安全性・信頼性の向上や、LLMのサイバーセキュリティへの活用に取り組んでいます。研究のかたわら、大学や中学・高校で教壇に立ち、学術研究と実社会をつなぐ活動を続けています。また、[ICI Lab（知能計算・情報セキュリティ研究室）](https://www.yucheng208.net/ici-lab)を率いています。
 
-## 学歴
+<img src="assets/headings/ja/research.svg" width="100%" alt="代表的な研究">
 
-<img src="assets/logos/nthu.svg" width="56" align="left" alt="国立清華大学">
+**A Contract-Grounded Runtime Validation Framework for LLM-Assisted Network Management**<br>
+<sub>IEEE ICC 2027 · 投稿中</sub><br>
+LLMが提案するネットワーク管理操作を、明示的な契約に基づいて実行時に検証し、LLMベースのシステムの安全性と信頼性を高めます。
 
-**国立清華大学**<br>
-情報工学 博士課程 · *2026 – 現在*
-<br clear="left">
+**AK-SLR: Attention-Guided Keypoint-Based Multimodal Sign Language Recognition**<br>
+<sub>IEEE ICIP Workshops 2026</sub><br>
+アテンション機構で導く、キーポイントベースのマルチモーダル手話認識。
 
-<img src="assets/logos/ntut.svg" width="56" align="left" alt="国立台北科技大学">
+**MultiPose: Unified Full-Body Multimodal Fusion via xLSTM-Based Lightweight Temporal Modeling**<br>
+<sub>IEEE VCIP 2026<!-- status:vcip2026 --> · 発表予定 · 12月13–16日 シンガポール<!-- /status --></sub><br>
+xLSTMによる軽量な時系列モデリングを用いた全身マルチモーダル融合。
 
-**国立台北科技大学**<br>
-情報工学 修士 · *2024 – 2026*
-<br clear="left">
+<sub><a href="https://www.yucheng208.net/publications">研究業績の一覧 →</a></sub>
 
-<img src="assets/logos/lhu.svg" width="56" align="left" alt="龍華科技大学">
+<img src="assets/headings/ja/education.svg" width="100%" alt="学歴">
 
-**龍華科技大学**<br>
-情報ネットワーク工学 学士 · *2020 – 2024*
-<br clear="left">
+<img src="assets/education/education.ja.svg" width="100%" alt="学歴">
 
-## ハイライト
+<img src="assets/headings/ja/highlights.svg" width="100%" alt="ハイライト">
 
-<img src="assets/icons/book-open.svg" width="18" align="top" alt=""> **[研究業績](https://www.yucheng208.net/publications)**：国際会議論文、学術論文、特許、書籍など38件以上<br>
-<img src="assets/icons/trophy.svg" width="18" align="top" alt=""> **[受賞歴](https://www.yucheng208.net/honors)**：63件（国際発明展での金賞20件以上を含む）<br>
-<img src="assets/icons/flask.svg" width="18" align="top" alt=""> **[研究プロジェクト](https://www.yucheng208.net/projects)**：国家科学及技術委員会（NSTC）および産学連携による研究プロジェクト<br>
-<img src="assets/icons/chalkboard-user.svg" width="18" align="top" alt=""> **[教育歴](https://www.yucheng208.net/teaching)**：大学・中高でのAI、プログラミング、デジタル論理の授業<br>
-<img src="assets/icons/microphone.svg" width="18" align="top" alt=""> **[講演・メディア](https://www.yucheng208.net/highlights)**：招待講演、研修講座、メディア掲載
+<a href="https://www.yucheng208.net/publications"><img src="assets/chips/ja/publications.svg" height="32" alt="研究業績"></a><br>
+国際会議論文、学術論文、特許、書籍など38件以上
+
+<a href="https://www.yucheng208.net/honors"><img src="assets/chips/ja/honors.svg" height="32" alt="受賞歴"></a><br>
+63件（国際発明展での金賞20件以上を含む）
+
+<a href="https://www.yucheng208.net/projects"><img src="assets/chips/ja/projects.svg" height="32" alt="研究プロジェクト"></a><br>
+国家科学及技術委員会（NSTC）および産学連携による研究プロジェクト
+
+<a href="https://www.yucheng208.net/teaching"><img src="assets/chips/ja/teaching.svg" height="32" alt="教育歴"></a><br>
+大学・中高でのAI、プログラミング、デジタル論理の授業
+
+<a href="https://www.yucheng208.net/highlights"><img src="assets/chips/ja/talks.svg" height="32" alt="講演・メディア"></a><br>
+招待講演、研修講座、メディア掲載
 
 ---
 

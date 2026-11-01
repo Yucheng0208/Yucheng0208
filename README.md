@@ -7,43 +7,51 @@
 <a href="https://scholar.google.com/citations?user=-SWWt7kAAAAJ"><img src="assets/badges/scholar.svg" height="38" alt="Google Scholar"></a>
 <a href="https://orcid.org/0000-0003-1301-9192"><img src="assets/badges/orcid.svg" height="38" alt="ORCID"></a>
 <a href="https://www.linkedin.com/in/yucheng208/"><img src="assets/badges/linkedin.svg" height="38" alt="LinkedIn"></a>
-<a href="https://www.yucheng208.net/#contact"><img src="assets/badges/email.svg" height="38" alt="Email"></a>
 </p>
 <p><sub><b>English</b> · <a href="https://github.com/Yucheng0208/Yucheng0208/blob/main/README.zh-TW.md">繁體中文</a> · <a href="https://github.com/Yucheng0208/Yucheng0208/blob/main/README.ja.md">日本語</a></sub></p>
 
 </div>
 
-## About
+<img src="assets/headings/about.svg" width="100%" alt="About">
 
-I am a Ph.D. student in Computer Science at National Tsing Hua University and a lecturer at Lunghwa University of Science and Technology. My work centers on applied AI, computer vision, and IoT. I focus on building deployable systems for sign language recognition, traffic safety, and smart education. I also lead [ICI Lab](https://www.yucheng208.net/ici-lab), which works on intelligent computing, computer vision, and information security.
+My research centers on multimodal AI and computer vision, including human pose estimation and sign language recognition, and increasingly on large language models (LLMs): improving the security and trustworthiness of LLM-based systems and applying LLMs to cybersecurity. Alongside research, I teach at the university and secondary-school levels and work to connect academic research with real-world practice. I also lead [ICI Lab](https://www.yucheng208.net/ici-lab).
 
-## Education
+<img src="assets/headings/research.svg" width="100%" alt="Selected Research">
 
-<img src="assets/logos/nthu.svg" width="56" align="left" alt="National Tsing Hua University">
+**A Contract-Grounded Runtime Validation Framework for LLM-Assisted Network Management**<br>
+<sub>IEEE ICC 2027 · Submitted</sub><br>
+Checks LLM-proposed network management actions against explicit contracts at runtime, making LLM-based systems safer and more trustworthy.
 
-**National Tsing Hua University**<br>
-Ph.D. in Computer Science · *2026 – Present*
-<br clear="left">
+**AK-SLR: Attention-Guided Keypoint-Based Multimodal Sign Language Recognition**<br>
+<sub>IEEE ICIP Workshops 2026</sub><br>
+Attention-guided, keypoint-based multimodal recognition of sign language.
 
-<img src="assets/logos/ntut.svg" width="56" align="left" alt="National Taipei University of Technology">
+**MultiPose: Unified Full-Body Multimodal Fusion via xLSTM-Based Lightweight Temporal Modeling**<br>
+<sub>IEEE VCIP 2026<!-- status:vcip2026 --> · To appear · Dec 13–16, Singapore<!-- /status --></sub><br>
+Unified full-body multimodal fusion with lightweight xLSTM-based temporal modeling.
 
-**National Taipei University of Technology**<br>
-M.S. in Computer Science and Information Engineering · *2024 – 2026*
-<br clear="left">
+<sub><a href="https://www.yucheng208.net/publications">Full publication list →</a></sub>
 
-<img src="assets/logos/lhu.svg" width="56" align="left" alt="Lunghwa University of Science and Technology">
+<img src="assets/headings/education.svg" width="100%" alt="Education">
 
-**Lunghwa University of Science and Technology**<br>
-B.S. in Computer Information and Network Engineering · *2020 – 2024*
-<br clear="left">
+<img src="assets/education/education.svg" width="100%" alt="Education">
 
-## Highlights
+<img src="assets/headings/highlights.svg" width="100%" alt="Highlights">
 
-<img src="assets/icons/book-open.svg" width="18" align="top" alt=""> **[Publications](https://www.yucheng208.net/publications)**: 38+ works including conference papers, journal articles, patents, and a book<br>
-<img src="assets/icons/trophy.svg" width="18" align="top" alt=""> **[Honors](https://www.yucheng208.net/honors)**: 63 awards, including 20+ gold medals at international invention exhibitions<br>
-<img src="assets/icons/flask.svg" width="18" align="top" alt=""> **[Projects](https://www.yucheng208.net/projects)**: NSTC-funded and industry research projects<br>
-<img src="assets/icons/chalkboard-user.svg" width="18" align="top" alt=""> **[Teaching](https://www.yucheng208.net/teaching)**: University and secondary school courses in AI, programming, and digital logic<br>
-<img src="assets/icons/microphone.svg" width="18" align="top" alt=""> **[Talks & Media](https://www.yucheng208.net/highlights)**: Invited talks, workshops, and media coverage
+<a href="https://www.yucheng208.net/publications"><img src="assets/chips/publications.svg" height="32" alt="Publications"></a><br>
+38+ works including conference papers, journal articles, patents, and a book
+
+<a href="https://www.yucheng208.net/honors"><img src="assets/chips/honors.svg" height="32" alt="Honors"></a><br>
+63 awards, including 20+ gold medals at international invention exhibitions
+
+<a href="https://www.yucheng208.net/projects"><img src="assets/chips/projects.svg" height="32" alt="Projects"></a><br>
+NSTC-funded and industry research projects
+
+<a href="https://www.yucheng208.net/teaching"><img src="assets/chips/teaching.svg" height="32" alt="Teaching"></a><br>
+University and secondary school courses in AI, programming, and digital logic
+
+<a href="https://www.yucheng208.net/highlights"><img src="assets/chips/talks.svg" height="32" alt="Talks & Media"></a><br>
+Invited talks, workshops, and media coverage
 
 ---
 
