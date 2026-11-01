@@ -19,16 +19,16 @@ My research centers on multimodal AI and computer vision, including human pose e
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/research-dark.svg"><img src="assets/headings/research.svg" width="100%" alt="Selected Research"></picture>
 
 **A Contract-Grounded Runtime Validation Framework for LLM-Assisted Network Management**<br>
-<sub>IEEE ICC 2027 · Submitted</sub><br>
+<sub>IEEE ICC 2027 · Washington, D.C., USA · May 30 – June 3, 2027 · Submitted</sub><br>
 Checks LLM-proposed network management actions against explicit contracts at runtime, making LLM-based systems safer and more trustworthy.
 
-**AK-SLR: Attention-Guided Keypoint-Based Multimodal Sign Language Recognition**<br>
-<sub>IEEE ICIP Workshops 2026</sub><br>
-Attention-guided, keypoint-based multimodal recognition of sign language.
-
 **MultiPose: Unified Full-Body Multimodal Fusion via xLSTM-Based Lightweight Temporal Modeling**<br>
-<sub>IEEE VCIP 2026<!-- status:vcip2026 --> · To appear · Dec 13–16, Singapore<!-- /status --></sub><br>
+<sub>IEEE VCIP 2026 · Singapore · Dec. 13–16, 2026<!-- status:vcip2026 --> · To appear<!-- /status --></sub><br>
 Unified full-body multimodal fusion with lightweight xLSTM-based temporal modeling.
+
+**AK-SLR: Attention-Guided Keypoint-Based Multimodal Sign Language Recognition**<br>
+<sub>IEEE ICIP Workshops 2026 · Tampere, Finland · Sept. 13–17, 2026</sub><br>
+Attention-guided, keypoint-based multimodal recognition of sign language.
 
 <sub><a href="https://www.yucheng208.net/publications">Full publication list →</a></sub>
 

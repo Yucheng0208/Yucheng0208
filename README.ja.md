@@ -19,16 +19,16 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/ja/research-dark.svg"><img src="assets/headings/ja/research.svg" width="100%" alt="代表的な研究"></picture>
 
 **A Contract-Grounded Runtime Validation Framework for LLM-Assisted Network Management**<br>
-<sub>IEEE ICC 2027 · 投稿中</sub><br>
+<sub>IEEE ICC 2027 · アメリカ・ワシントンD.C. · 2027年5月30日–6月3日 · 投稿中</sub><br>
 LLMが提案するネットワーク管理操作を、明示的な契約に基づいて実行時に検証し、LLMベースのシステムの安全性と信頼性を高めます。
 
-**AK-SLR: Attention-Guided Keypoint-Based Multimodal Sign Language Recognition**<br>
-<sub>IEEE ICIP Workshops 2026</sub><br>
-アテンション機構で導く、キーポイントベースのマルチモーダル手話認識。
-
 **MultiPose: Unified Full-Body Multimodal Fusion via xLSTM-Based Lightweight Temporal Modeling**<br>
-<sub>IEEE VCIP 2026<!-- status:vcip2026 --> · 発表予定 · 12月13–16日 シンガポール<!-- /status --></sub><br>
+<sub>IEEE VCIP 2026 · シンガポール · 2026年12月13–16日<!-- status:vcip2026 --> · 発表予定<!-- /status --></sub><br>
 xLSTMによる軽量な時系列モデリングを用いた全身マルチモーダル融合。
+
+**AK-SLR: Attention-Guided Keypoint-Based Multimodal Sign Language Recognition**<br>
+<sub>IEEE ICIP Workshops 2026 · フィンランド・タンペレ · 2026年9月13–17日</sub><br>
+アテンション機構で導く、キーポイントベースのマルチモーダル手話認識。
 
 <sub><a href="https://www.yucheng208.net/publications">研究業績の一覧 →</a></sub>
 

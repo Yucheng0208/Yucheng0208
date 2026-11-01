@@ -19,16 +19,16 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/zh-TW/research-dark.svg"><img src="assets/headings/zh-TW/research.svg" width="100%" alt="代表研究"></picture>
 
 **A Contract-Grounded Runtime Validation Framework for LLM-Assisted Network Management**<br>
-<sub>IEEE ICC 2027 · 投稿中</sub><br>
+<sub>IEEE ICC 2027 · 美國華盛頓特區 · 2027/5/30–6/3 · 投稿中</sub><br>
 以明確的契約為依據，在執行階段驗證 LLM 提出的網路管理操作，提升 LLM 系統的安全性與可信度。
 
-**AK-SLR: Attention-Guided Keypoint-Based Multimodal Sign Language Recognition**<br>
-<sub>IEEE ICIP Workshops 2026</sub><br>
-以注意力機制引導、基於關鍵點的多模態手語辨識。
-
 **MultiPose: Unified Full-Body Multimodal Fusion via xLSTM-Based Lightweight Temporal Modeling**<br>
-<sub>IEEE VCIP 2026<!-- status:vcip2026 --> · 即將發表 · 12/13–16 新加坡<!-- /status --></sub><br>
+<sub>IEEE VCIP 2026 · 新加坡 · 2026/12/13–16<!-- status:vcip2026 --> · 即將發表<!-- /status --></sub><br>
 結合全身多模態融合與基於 xLSTM 的輕量化時序建模。
+
+**AK-SLR: Attention-Guided Keypoint-Based Multimodal Sign Language Recognition**<br>
+<sub>IEEE ICIP Workshops 2026 · 芬蘭坦佩雷 · 2026/9/13–17</sub><br>
+以注意力機制引導、基於關鍵點的多模態手語辨識。
 
 <sub><a href="https://www.yucheng208.net/publications">完整著作清單 →</a></sub>
 

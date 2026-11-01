@@ -17,8 +17,8 @@ EVENTS = {
     "vcip2026": dict(
         start=dt.date(2026, 12, 13),
         end=dt.date(2026, 12, 16),
-        before={"en": "To appear · Dec 13–16, Singapore", "zh-TW": "即將發表 · 12/13–16 新加坡", "ja": "発表予定 · 12月13–16日 シンガポール"},
-        during={"en": "Presenting now · Singapore", "zh-TW": "發表中 · 新加坡", "ja": "発表中 · シンガポール"},
+        before={"en": "To appear", "zh-TW": "即將發表", "ja": "発表予定"},
+        during={"en": "Presenting now", "zh-TW": "發表中", "ja": "発表中"},
         after={"en": "", "zh-TW": "", "ja": ""},
     ),
 }
