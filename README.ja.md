@@ -41,17 +41,33 @@ xLSTMによる軽量な時系列モデリングを用いた全身マルチモー
 <a href="https://www.yucheng208.net/publications"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/ja/publications-dark.svg"><img src="assets/chips/ja/publications.svg" height="32" alt="研究業績"></picture></a><br>
 国際会議論文、学術論文、特許、書籍など38件以上
 
+<sub><a href="https://www.yucheng208.net/publications">研究業績の一覧 →</a></sub>
+
 <a href="https://www.yucheng208.net/honors"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/ja/honors-dark.svg"><img src="assets/chips/ja/honors.svg" height="32" alt="受賞歴"></picture></a><br>
-63件（国際発明展での金賞20件以上を含む）
+64件以上（国際発明展での金賞20件以上を含む）
+
+- **最優秀会議論文賞** — IEEE ICCBE 2025
+- **学生論文賞 佳作** — 第20回 Workshop on Wireless, Ad-Hoc and Sensor Networks（WASN 2025）
+- **チタン賞（上位10%）** — Green Idea Invention and Design Fair 2025
+- **優秀科学技術イノベーション賞** — ISPARK International Pitching Competition 2024
+- **金賞** — Japan Design, Idea & Invention Expo 2025（東京）
+
+<sub><a href="https://www.yucheng208.net/honors">受賞歴の一覧 →</a></sub>
 
 <a href="https://www.yucheng208.net/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/ja/projects-dark.svg"><img src="assets/chips/ja/projects.svg" height="32" alt="研究プロジェクト"></picture></a><br>
 国家科学及技術委員会（NSTC）および産学連携による研究プロジェクト
 
+<sub><a href="https://www.yucheng208.net/projects">研究プロジェクトの一覧 →</a></sub>
+
 <a href="https://www.yucheng208.net/teaching"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/ja/teaching-dark.svg"><img src="assets/chips/ja/teaching.svg" height="32" alt="教育歴"></picture></a><br>
 大学・中高でのAI、プログラミング、デジタル論理の授業
 
+<sub><a href="https://www.yucheng208.net/teaching">教育歴の一覧 →</a></sub>
+
 <a href="https://www.yucheng208.net/highlights"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/ja/talks-dark.svg"><img src="assets/chips/ja/talks.svg" height="32" alt="講演・メディア"></picture></a><br>
 招待講演、研修講座、メディア掲載
+
+<sub><a href="https://www.yucheng208.net/highlights">講演・メディアの一覧 →</a></sub>
 
 ---
 

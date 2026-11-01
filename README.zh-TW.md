@@ -41,17 +41,33 @@
 <a href="https://www.yucheng208.net/publications"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/zh-TW/publications-dark.svg"><img src="assets/chips/zh-TW/publications.svg" height="32" alt="著作發表"></picture></a><br>
 38 篇以上，包含會議論文、期刊論文、專利與專書
 
+<sub><a href="https://www.yucheng208.net/publications">完整著作清單 →</a></sub>
+
 <a href="https://www.yucheng208.net/honors"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/zh-TW/honors-dark.svg"><img src="assets/chips/zh-TW/honors.svg" height="32" alt="榮譽獎項"></picture></a><br>
-63 項，其中包含 20 面以上國際發明展金牌
+64 項以上，其中包含 20 面以上國際發明展金牌
+
+- **最佳會議論文獎** — IEEE ICCBE 2025
+- **學生論文佳作** — 第 20 屆 Workshop on Wireless, Ad-Hoc and Sensor Networks（WASN 2025）
+- **鈦金獎（前 10%）** — 2025 綠點子國際發明暨設計競賽
+- **傑出科技創新獎** — ISPARK 國際創業提案競賽 2024
+- **金牌** — 2025 日本國際發明展（東京）
+
+<sub><a href="https://www.yucheng208.net/honors">完整榮譽獎項 →</a></sub>
 
 <a href="https://www.yucheng208.net/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/zh-TW/projects-dark.svg"><img src="assets/chips/zh-TW/projects.svg" height="32" alt="研究計畫"></picture></a><br>
 國科會補助與產學合作研究計畫
 
+<sub><a href="https://www.yucheng208.net/projects">完整研究計畫 →</a></sub>
+
 <a href="https://www.yucheng208.net/teaching"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/zh-TW/teaching-dark.svg"><img src="assets/chips/zh-TW/teaching.svg" height="32" alt="教學經歷"></picture></a><br>
 大學與中學的人工智慧、程式設計與數位邏輯課程
 
+<sub><a href="https://www.yucheng208.net/teaching">完整教學經歷 →</a></sub>
+
 <a href="https://www.yucheng208.net/highlights"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/zh-TW/talks-dark.svg"><img src="assets/chips/zh-TW/talks.svg" height="32" alt="演講與媒體"></picture></a><br>
 受邀演講、研習講座與媒體報導
+
+<sub><a href="https://www.yucheng208.net/highlights">完整演講與媒體 →</a></sub>
 
 ---
 

@@ -41,17 +41,33 @@ Unified full-body multimodal fusion with lightweight xLSTM-based temporal modeli
 <a href="https://www.yucheng208.net/publications"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/publications-dark.svg"><img src="assets/chips/publications.svg" height="32" alt="Publications"></picture></a><br>
 38+ works including conference papers, journal articles, patents, and a book
 
+<sub><a href="https://www.yucheng208.net/publications">Full publication list →</a></sub>
+
 <a href="https://www.yucheng208.net/honors"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/honors-dark.svg"><img src="assets/chips/honors.svg" height="32" alt="Honors"></picture></a><br>
-63 awards, including 20+ gold medals at international invention exhibitions
+64+ awards, including 20+ gold medals at international invention exhibitions
+
+- **Best Conference Paper Award** — IEEE ICCBE 2025
+- **Best Student Paper Honorable Mention** — 20th Workshop on Wireless, Ad-Hoc and Sensor Networks (WASN 2025)
+- **Titanium Prize (Top 10%)** — Green Idea Invention and Design Fair 2025
+- **Outstanding Science and Technology Innovation Award** — ISPARK International Pitching Competition 2024
+- **Gold Medal** — Japan Design, Idea & Invention Expo 2025
+
+<sub><a href="https://www.yucheng208.net/honors">All honors and awards →</a></sub>
 
 <a href="https://www.yucheng208.net/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/projects-dark.svg"><img src="assets/chips/projects.svg" height="32" alt="Projects"></picture></a><br>
 NSTC-funded and industry research projects
 
+<sub><a href="https://www.yucheng208.net/projects">All research projects →</a></sub>
+
 <a href="https://www.yucheng208.net/teaching"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/teaching-dark.svg"><img src="assets/chips/teaching.svg" height="32" alt="Teaching"></picture></a><br>
 University and secondary school courses in AI, programming, and digital logic
 
+<sub><a href="https://www.yucheng208.net/teaching">Full teaching record →</a></sub>
+
 <a href="https://www.yucheng208.net/highlights"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/talks-dark.svg"><img src="assets/chips/talks.svg" height="32" alt="Talks & Media"></picture></a><br>
 Invited talks, workshops, and media coverage
+
+<sub><a href="https://www.yucheng208.net/highlights">All talks and media →</a></sub>
 
 ---
 
